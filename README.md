@@ -1,5 +1,6 @@
 # The Cyclist
 
+![Simulation Preview](assets/Final_4k_Image_Overview.png)
 ## Overview
 **The Cyclist** is a crowd simulation project focused on modeling interactions between cyclists and pedestrians in an urban environment. Developed using Unity, this simulation leverages **NavMesh pathfinding** and **Reciprocal Velocity Obstacles (RVO)** for realistic movement and collision avoidance. 
 
@@ -25,3 +26,6 @@ This project was created at **Utrecht University** as an assignment for the **Cr
 - **Alessandro Busacchi**
 - **Arie Klaver**
 - **Matthijs Berkhout**
+
+## Watch the Simulation
+🎥 [Demo Video](https://github.com/matus01/The_Cyclist/blob/main/assets/Video_Showing_Seperate_Features.mp4)
