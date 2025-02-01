@@ -29,3 +29,6 @@ This project was created at **Utrecht University** as an assignment for the **Cr
 
 ## Watch the Simulation
 🎥 [Demo Video](https://github.com/matus01/The_Cyclist/blob/main/assets/Video_Showing_Seperate_Features.mp4)
+
+## Read the Report
+📄 [PDF Report](assets/Report.pdf)
